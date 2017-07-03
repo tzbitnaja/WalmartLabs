@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tzbitnaja\.android\build-cache\bd270a5bccad5afd949820834481310eac583753\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\tzbitnaja\.android\build-cache\493ca725952b96ef9f9e57d6e3bcf50e25c4e6b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\tzbitnaja\.android\build-cache\a2838a7956582c570ad7c07b7d30ac33fb1e8242\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\tzbitnaja\.android\build-cache\9e6c0b1c7662f937eb8475c6a443d754069b8d08\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\tzbitnaja\.android\build-cache\e92dc00938ac28ad7d935c33b615494d8a72c645\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\tzbitnaja\.android\build-cache\635dd990a66ccc8469aea1bfa78da90c46406463\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\tzbitnaja\.android\build-cache\14335a0f532f15061d0cf36bce1f8b4af27d1819\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\tzbitnaja\.android\build-cache\35a13d3f893cb3a94874a1cbec54eb0fc3c6b527\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\tzbitnaja\.android\build-cache\f4267f551748020ffd81e079b139f2ce50aa1746\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:13:9-53
+activity#tzbitnaja.walmartlabs.MainActivity
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:18:27-74
+activity#tzbitnaja.walmartlabs.ProductDetailActivity
+ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml:21:19-56
+uses-sdk
+INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tzbitnaja\.android\build-cache\bd270a5bccad5afd949820834481310eac583753\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\tzbitnaja\.android\build-cache\c2621dfa65fa51fbf3025ed0ac8f9650d98a1961\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\tzbitnaja\.android\build-cache\493ca725952b96ef9f9e57d6e3bcf50e25c4e6b7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\tzbitnaja\.android\build-cache\a2838a7956582c570ad7c07b7d30ac33fb1e8242\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\tzbitnaja\.android\build-cache\9e6c0b1c7662f937eb8475c6a443d754069b8d08\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\tzbitnaja\.android\build-cache\e92dc00938ac28ad7d935c33b615494d8a72c645\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\tzbitnaja\.android\build-cache\635dd990a66ccc8469aea1bfa78da90c46406463\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\tzbitnaja\.android\build-cache\14335a0f532f15061d0cf36bce1f8b4af27d1819\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\tzbitnaja\.android\build-cache\35a13d3f893cb3a94874a1cbec54eb0fc3c6b527\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\tzbitnaja\.android\build-cache\f4267f551748020ffd81e079b139f2ce50aa1746\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tzbitnaja\Documents\WalmartLabs\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\tzbitnaja\.android\build-cache\493ca725952b96ef9f9e57d6e3bcf50e25c4e6b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\tzbitnaja\.android\build-cache\a2838a7956582c570ad7c07b7d30ac33fb1e8242\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\tzbitnaja\.android\build-cache\9e6c0b1c7662f937eb8475c6a443d754069b8d08\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\tzbitnaja\.android\build-cache\e92dc00938ac28ad7d935c33b615494d8a72c645\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\tzbitnaja\.android\build-cache\635dd990a66ccc8469aea1bfa78da90c46406463\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\tzbitnaja\.android\build-cache\14335a0f532f15061d0cf36bce1f8b4af27d1819\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\tzbitnaja\.android\build-cache\35a13d3f893cb3a94874a1cbec54eb0fc3c6b527\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\tzbitnaja\.android\build-cache\f4267f551748020ffd81e079b139f2ce50aa1746\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\AndroidManifest.xml:26:9-47

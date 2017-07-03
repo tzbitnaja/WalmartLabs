@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="tzbitnaja.walmartlabs.test" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for tzbitnaja.walmartlabs"
+        android:targetPackage="tzbitnaja.walmartlabs" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+</manifest>

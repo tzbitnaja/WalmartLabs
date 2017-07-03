@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/productImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="5dp" />
+
+    <TextView
+        android:id="@+id/productName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/productImage"
+        android:layout_toLeftOf="@+id/price"
+
+        android:paddingLeft="5dp"
+        android:paddingRight="2dp"
+
+        android:text="Name"
+        android:textSize="14dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="2dp"
+        android:paddingRight="7dp"
+
+        android:text="Price"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+    />
+</RelativeLayout>

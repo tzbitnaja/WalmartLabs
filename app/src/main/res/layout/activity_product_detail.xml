@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="tzbitnaja.walmartlabs.ProductDetailActivity">
+
+    <RelativeLayout
+        android:id="@+id/detailedView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <TextView
+            android:id="@+id/productNameD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp"
+
+            android:text="Name"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_alignStart="@+id/ratingBar" />
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_width="85dp"
+            android:layout_height="25dp"
+
+            android:numStars="5"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:stepSize="0.05"
+            android:layout_below="@+id/productNameD"
+            android:layout_alignStart="@+id/sInfoD"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/reviewsD"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+
+            android:layout_alignTop="@+id/ratingBar"
+            android:layout_marginStart="18dp"
+            android:layout_toEndOf="@+id/ratingBar"
+            android:paddingBottom="5dp"
+            android:paddingRight="5dp"
+            android:text="reviews"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="14dp" />
+
+        <TextView
+            android:id="@+id/priceD"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+
+
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/productNameD"
+            android:layout_marginEnd="6dp"
+            android:layout_alignBaseline="@id/reviewsD"
+
+
+            android:paddingBottom="5dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="5dp"
+            android:text="price"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/instockD"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+
+            android:layout_marginEnd="20dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="2dp"
+            android:paddingRight="5dp"
+            android:text="inStock"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="14dp"
+            android:layout_alignTop="@id/productNameD"
+            android:layout_alignBaseline="@id/reviewsD"
+            android:layout_toStartOf="@+id/priceD" />
+
+        <ImageView
+            android:id="@+id/productImageD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_below="@id/ratingBar"
+
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true" />
+
+        <TextView
+            android:id="@+id/sInfoD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Product Overview:"
+            android:textColor="@android:color/black"
+            android:textSize="13dp"
+            android:textStyle="bold"
+
+            android:layout_marginTop="25dp"
+            android:layout_marginStart="6dp"
+            android:layout_below="@+id/productImageD"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/shortInfoD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+
+            android:layout_marginTop="4dp"
+            android:layout_below="@+id/sInfoD"
+            android:layout_alignStart="@+id/sInfoD"
+            android:layout_alignEnd="@+id/priceD" />
+
+        <TextView
+            android:id="@+id/lInfoD"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="Long Description:"
+            android:textColor="@android:color/black"
+            android:textSize="13dp"
+            android:textStyle="bold"
+
+            android:layout_marginStart="6dp"
+            android:layout_below="@+id/shortInfoD"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:id="@+id/longInfoD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:textColor="@android:color/black"
+            android:textSize="12dp"
+            android:maxLines="30"
+            android:scrollbars="vertical"
+
+            android:layout_marginTop="4dp"
+            android:layout_below="@+id/lInfoD"
+            android:layout_alignStart="@+id/lInfoD"
+            android:layout_alignEnd="@+id/priceD" />
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

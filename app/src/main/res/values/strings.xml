@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WalmartLabs</string>
+    <string name="title_product_list">Products</string>
+    <string name="title_product_detail">Product Detail</string>
+
+    <string name="product">product</string>
+    <string name="price">price</string>
+    <string name="shortInfo">shortInfo</string>
+    <string name="longInfo">longInfo</string>
+    <string name="image">image</string>
+    <string name="instock">instock</string>
+    <string name="reviews">reviews</string>
+    <string name="rating">rating</string>
+
+
+</resources>

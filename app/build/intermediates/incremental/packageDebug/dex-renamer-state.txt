@@ -1,0 +1,7 @@
+#Mon Jul 03 11:55:20 PDT 2017
+base.0=C\:\\Users\\tzbitnaja\\Documents\\WalmartLabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3d3a7f407d7e148231649d508829db7119ad0066
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\tzbitnaja\\Documents\\WalmartLabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4dc4ea85035391ac2a16c3a8b2f3b8695a221f86\\classes.dex
+base.1=C\:\\Users\\tzbitnaja\\Documents\\WalmartLabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4dc4ea85035391ac2a16c3a8b2f3b8695a221f86
+file.0=C\:\\Users\\tzbitnaja\\Documents\\WalmartLabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3d3a7f407d7e148231649d508829db7119ad0066\\classes.dex

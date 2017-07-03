@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\bd270a5bccad5afd949820834481310eac583753\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c33b67709c8b92e438f94ea37c00abde7d5df75d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d43f16ad5fcb228ca8eb0faa1748c345724cb7b">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3d3a7f407d7e148231649d508829db7119ad0066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\9e6c0b1c7662f937eb8475c6a443d754069b8d08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c42e068414191e926c5365b4a36306d08033c00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dc4ea85035391ac2a16c3a8b2f3b8695a221f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\f4267f551748020ffd81e079b139f2ce50aa1746\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8fd2c1576894e35285ff9521ad540af43e70df26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\14335a0f532f15061d0cf36bce1f8b4af27d1819\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_558a1f972eb2e656c67fb084f970bb5f0ace8683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fd674ba6feebd4d8fd2b40a3013aebe9bd953633">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3d3a7f407d7e148231649d508829db7119ad0066\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\493ca725952b96ef9f9e57d6e3bcf50e25c4e6b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bb3e981a153fad413746e1686d0bf2a232b54ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\e92dc00938ac28ad7d935c33b615494d8a72c645\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b352d54177786228eacd223fdb0e8e2988924d79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\35a13d3f893cb3a94874a1cbec54eb0fc3c6b527\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9a8a01fd70c1160d2ecc77528328789df89fbde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\53967fadfd5abddc0031acf3f21e9f4d2db19db6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db359bad87b99c1b4a6b54cb5ba10d469e8a2f31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9a1da1633b6e010ba4c7981fc490bb2bfa10bc92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\c2621dfa65fa51fbf3025ed0ac8f9650d98a1961\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0441d65df69f555f58115bf311cc0a0e0202cf7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\a2838a7956582c570ad7c07b7d30ac33fb1e8242\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50a55609c0f40defe7162c7763dc404fe33dc3c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.android\build-cache\635dd990a66ccc8469aea1bfa78da90c46406463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81d288d1e270f5933c37b0ee3dfd8bb3be95769a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4dc4ea85035391ac2a16c3a8b2f3b8695a221f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4871ed1e01c921da903f2c0054519885f0c6d61b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tzbitnaja\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\tzbitnaja\Documents\WalmartLabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_2d0b5c929762773b5edba1a534a5c7837ee78ac3\classes.dex" />
+    </item>
+
+</items>
